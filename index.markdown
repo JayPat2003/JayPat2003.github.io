@@ -6,8 +6,7 @@ title: My Personal Website
 # Jayesh Pattamatta
 
 ## Contact Information
-- **Email:** jayesh.pattamatta@gmail.com
-- **Phone:** 8425812523
+- **Email:** jayesh[dot]pattamatta[at]gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jayesh-pattamatta-701092202/
 - **GitHub:** JayPat2003
 
